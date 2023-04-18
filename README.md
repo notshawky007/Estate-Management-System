@@ -1,16 +1,11 @@
 <a name="readme-top"></a>
-[![Contributors][contributors-shield]][contributors-url]
-[![Forks][forks-shield]][forks-url]
-[![Stargazers][stars-shield]][stars-url]
-[![Issues][issues-shield]][issues-url]
-[![MIT License][license-shield]][license-url]
 [![LinkedIn][linkedin-shield]][linkedin-url]
 
 <!-- PROJECT LOGO -->
 <br />
 <div align="center">
-  <a href="https://github.com/othneildrew/Best-README-Template">
-    <img src="=https://user-images.githubusercontent.com/100785039/232865988-e1089246-1775-4f23-b913-06c6f79cb760.png" alt="Logo" width="80" height="80">
+  <a href="#">
+    <img src="https://user-images.githubusercontent.com/100785039/232865988-e1089246-1775-4f23-b913-06c6f79cb760.png" alt="Logo" width="80" height="80">
   </a>
 
   <h3 align="center">Dtu Estate-Management-System</h3>
