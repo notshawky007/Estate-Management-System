@@ -26,7 +26,6 @@
         <li><a href="#built-with">Built With</a></li>
       </ul>
     </li>
-    <li><a href="#contributing">Contributing</a></li>
     <li><a href="#contact">Contact</a></li>
   </ol>
 </details>
@@ -45,8 +44,8 @@ Dtu Estate-Management-System ![image](https://user-images.githubusercontent.com/
 * [![JavaScript][JavaScript.com]][JavaScript-url]
 * [![Bootstrap][Bootstrap.com]][Bootstrap-url]
 * [![Sass][Sass.com]][Sass-url]
+* [![PHP][PHP.net]][PHP-url]
 * [![MySQL][MySQL.com]][MySQL-url]
-* [![Php][PHP.net]][PHP-url]
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
